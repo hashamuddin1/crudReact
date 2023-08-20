@@ -1,0 +1,9 @@
+.mainHome{
+  width: 60%;
+  margin: 15px auto;
+}
+
+.headProduct{
+  display: flex;
+  justify-content: space-between;
+}
